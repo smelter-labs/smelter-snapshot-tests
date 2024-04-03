@@ -20,3 +20,19 @@
     - RTP dumps:
         - `8_colors_input_reversed_video.rtp` - only video
         - `8_colors_input_reversed_audio.rtp` - only audio
+
+- `8_colors_long_input.mp4`
+    - `8_colors_input.mp4` repeated 4 times.
+    - Resolution: 640x360
+    - Duration: 1 minute and 20 seconds
+    - Video codec: h264
+    - Audio codec: Opus
+    - RTP dumps:
+        - `8_colors_long_input_video.rtp` - only video
+
+- `countdown.mp4`
+    - Audio of a man counting down from 10 to 1.
+    - Duration: 16 seconds
+    - Audio codec: Opus
+    - RTP dumps:
+        - `countdown_audio.rtp` - only audio
