@@ -36,3 +36,12 @@
     - Audio codec: Opus
     - RTP dumps:
         - `countdown_audio.rtp` - only audio
+
+- `big_buck_bunny_10s.mp4`
+    - The first 10 seconds of the Big Buck Bunny movie
+    - Resolution: 1280x720
+    - Duration: 10 seconds
+    - Video codec: h264
+    - Audio codec: AAC
+    - RTP dumps:
+        - `big_buck_bunny_10s_audio_aac.rtp` - only audio
