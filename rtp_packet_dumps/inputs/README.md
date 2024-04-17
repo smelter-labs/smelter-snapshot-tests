@@ -43,5 +43,6 @@
     - Duration: 10 seconds
     - Video codec: h264
     - Audio codec: AAC
+        - AudioSpecificConfig: "1210"
     - RTP dumps:
         - `big_buck_bunny_10s_audio_aac.rtp` - only audio
